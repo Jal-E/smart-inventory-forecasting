@@ -1,3 +1,4 @@
 # Ignore large M5 raw datasets (over 100MB)
 data/sales_train_validation.csv
 data/sell_prices.csv
+notebook/load_and_explorem5.html

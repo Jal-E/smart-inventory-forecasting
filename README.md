@@ -9,3 +9,5 @@ This project forecasts SKU-level retail demand and flags inventory anomalies usi
 - `/models`: Saved models
 - `/visuals`: Graphs and evaluation plots
 - `/dashboard`: Streamlit app for user interaction
+
+⚠️ Due to GitHub size limits, please download `sales_train_validation.csv` and `sell_prices.csv` from [Kaggle M5 Dataset](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data) and place them in `/data/`.
